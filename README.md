@@ -1,11 +1,14 @@
 # Flashcard App
 
-A simple React Flashcard App that helps users test their IT knowledge.
+A simple React Flashcard App that helps users test their JavaScript knowledge.
 
 ## 🚀 Live Project URL
 You can view the project here:  
-👉 [https://kaykaygreene.github.io/flashcard-app](https://kaykaygreene.github.io/flashcard-app)
-   
+👉 [https://Kaykaygreene.github.io/flashcard-app](https://Kaykaygreene.github.io/flashcard-app)
+
+## 📁 Repository URL
+GitHub repository: [https://github.com/Kaykaygreene/flashcard-app](https://github.com/Kaykaygreene/flashcard-app)
+
 ## 🧠 Features
 - Predefined flashcards with JavaScript questions and answers  
 - Flip cards to reveal answers  
